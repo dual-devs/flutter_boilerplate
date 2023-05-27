@@ -1,4 +1,4 @@
-name: Flutter Modular 
+name: modular_app 
 description: A brick created with the Mason CLI to development in Flutter with modular arch and depencie injection and mobx to state manager.
 
 version: 0.1.0+1
