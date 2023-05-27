@@ -1,6 +1,6 @@
 # Run "mason get" to install all registered bricks.
 # To learn more, visit https://docs.brickhub.dev.
 bricks:
-  widget:
+  modular_app:
     git:
       path: bricks/modular_app
