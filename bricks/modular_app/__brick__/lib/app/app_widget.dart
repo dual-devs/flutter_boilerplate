@@ -9,7 +9,7 @@ class AppWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: {{name.titleCase()}},
+      title: "{{name.titleCase()}}",
       theme: AppTheme.defaultTheme,
       debugShowCheckedModeBanner: false,
       routerDelegate: Modular.routerDelegate,

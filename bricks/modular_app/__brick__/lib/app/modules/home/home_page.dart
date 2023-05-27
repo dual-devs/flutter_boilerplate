@@ -19,9 +19,7 @@ class HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          {
-            {name.titleCase()}
-          },
+          "{{name.titleCase()}}",
         ),
       ),
       floatingActionButton: FloatingActionButton(
